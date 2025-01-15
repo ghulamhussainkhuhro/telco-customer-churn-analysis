@@ -59,7 +59,7 @@ This project analyzes customer churn using a dataset from a telecommunications c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/customer-churn-analysis.git
+   git clone https://github.com/ghulamhussainkhuhro/telco-customer-churn-analysis.git
    ```
 
 ## Results

@@ -1,5 +1,8 @@
 # Customer Churn Analysis
 
+### 🌟 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ghulamhussainkhuhro)
+
 ## Project Overview
 
 This project analyzes customer churn using a dataset from a telecommunications company. The goal is to uncover patterns and reasons behind customer churn and provide actionable insights for improving customer retention.
@@ -59,17 +62,6 @@ This project analyzes customer churn using a dataset from a telecommunications c
    git clone https://github.com/your-repo/customer-churn-analysis.git
    ```
 
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the analysis:
-
-   - Open the Jupyter Notebook and execute the cells.
-```
-
 ## Results
 
 - Visualizations showing churn trends.
@@ -85,8 +77,7 @@ This project analyzes customer churn using a dataset from a telecommunications c
 - **Your Name** Ghulam Hussain Khuhro
 ---
 
-### 🌟 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ghulamhussainkhuhro)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ghulamhussainkhuhro)
 
 Feel free to explore the repository and contribute. Any feedback or suggestions are welcome!
